@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn articles into 5-8 reviewable knowledge cards"
+  default_prompt: "把这篇文章整理成 5-8 张知识卡片。"
